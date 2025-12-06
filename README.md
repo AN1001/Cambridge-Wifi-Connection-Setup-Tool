@@ -25,7 +25,7 @@ This assumes you have already made a network access token, if not go to: https:/
 
 # Automatic Script to connect
 ### Warning
-This was vibe coded to follow the above steps, use at your own risk, verify yourself that this script is safe to run.
+This was vibe coded to follow the above steps, use at your own risk, verify yourself that this script is safe to run. It has also not been tested
 
 ### Setup
 
