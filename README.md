@@ -30,5 +30,5 @@ This was vibe coded to follow the above steps, use at your own risk, verify your
 ### Setup
 
 - Connect to UniOfCam-Guest temporarily and download the `setup_eduroam.sh` file
-- Then `chmod +x setup_eduroam.sh`
+- Then `chmod +x setup_eduroam.sh` (replace path with where you stored file)
 - Then `sudo ./setup_eduroam.sh` (replace path with where you stored file) or just run file however you want
