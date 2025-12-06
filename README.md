@@ -2,6 +2,7 @@
 A guide to connect to eduroam on Linux at Cambridge. May not work for all distos. I created this because the installer in the uni guide looks painful. This works but it might not be safe, use at your own risk. This should work for all distros using iwd, just make sure `/etc/ssl/certs/DigiCert_Global_Root_G2.pem` exists on yours i.e. it comes pre installed.
 Also other users on the same device may be able to see your credentials, you may want to edit file permissions for the file below if you don't want this to occur.
 
+# Manual Connection
 - Run `sudo nano /var/lib/iwd/eduroam.8021x`
 - Paste in (replacing username and password with your own - the credentials given are just demo btw)
   ```
